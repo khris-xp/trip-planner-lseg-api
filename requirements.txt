@@ -1,0 +1,16 @@
+# FastAPI and web framework dependencies
+fastapi
+uvicorn
+pydantic
+
+# Google Gemini AI
+google-generativeai
+
+# Additional utilities
+python-multipart
+python-dotenv
+
+# Development dependencies (optional)
+pytest
+pytest-asyncio
+httpx
