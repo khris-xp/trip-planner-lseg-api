@@ -1,0 +1,45 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Editor files and directories
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs and temporary files
+*.log
+tmp/
+logs/
+
+# Database files (if using SQLite)
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+.env.*
+.flaskenv
+
+# Uploaded media (if applicable)
+media/
+uploads/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Other common files to ignore
+.DS_Store # macOS specific
+Thumbs.db # Windows specific
